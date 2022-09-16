@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+.Joker{
+background-color: rgb(141, 141, 141);
+background-size: cover;
+padding: 1rem;
+
+}
+.Word{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 100px;
+  color: blueviolet;
+  padding: 1rem;
+
+}
+.say{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 80px;
+  color: rgba(255, 0, 0, 0.5);
+  padding: 1rem;  
+}
+
